@@ -6,3 +6,4 @@ dummy/** filter=lfs diff=lfs merge=lfs -text
 dummy2/** filter=lfs diff=lfs merge=lfs -text
 assets2/sub1/** filter=lfs diff=lfs merge=lfs -text
 assets2/sub3/** filter=lfs diff=lfs merge=lfs -text
+assets3/** filter=lfs diff=lfs merge=lfs -text
